@@ -1,2 +1,0 @@
-# responsivedesign
-responsive design task
